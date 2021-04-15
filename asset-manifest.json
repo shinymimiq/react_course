@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_course/static/css/main.91712dca.chunk.css",
+    "main.js": "/react_course/static/js/main.8c8d2d5c.chunk.js",
+    "main.js.map": "/react_course/static/js/main.8c8d2d5c.chunk.js.map",
+    "runtime-main.js": "/react_course/static/js/runtime-main.c985924a.js",
+    "runtime-main.js.map": "/react_course/static/js/runtime-main.c985924a.js.map",
+    "static/js/2.3f5bc5f5.chunk.js": "/react_course/static/js/2.3f5bc5f5.chunk.js",
+    "static/js/2.3f5bc5f5.chunk.js.map": "/react_course/static/js/2.3f5bc5f5.chunk.js.map",
+    "static/js/3.df189d55.chunk.js": "/react_course/static/js/3.df189d55.chunk.js",
+    "static/js/3.df189d55.chunk.js.map": "/react_course/static/js/3.df189d55.chunk.js.map",
+    "index.html": "/react_course/index.html",
+    "service-worker.js": "/react_course/service-worker.js",
+    "service-worker.js.map": "/react_course/service-worker.js.map",
+    "static/css/main.91712dca.chunk.css.map": "/react_course/static/css/main.91712dca.chunk.css.map",
+    "static/js/2.3f5bc5f5.chunk.js.LICENSE.txt": "/react_course/static/js/2.3f5bc5f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c985924a.js",
+    "static/js/2.3f5bc5f5.chunk.js",
+    "static/css/main.91712dca.chunk.css",
+    "static/js/main.8c8d2d5c.chunk.js"
+  ]
+}
