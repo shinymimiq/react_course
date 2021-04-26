@@ -8,12 +8,6 @@ import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up
 
 import { auth, createUserProfileDocument } from "./firebase/firebase.util";
 
-const HatsPage = () => (
-  <div>
-    <h1>HATS PAGE</h1>
-  </div>
-);
-
 class App extends React.Component {
   constructor() {
     super();
