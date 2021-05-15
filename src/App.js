@@ -1,6 +1,6 @@
 import React from "react";
-import "./App.css";
 import { Switch, Route, Redirect } from "react-router-dom";
+
 import Header from "./components/header/header.component";
 
 import HomePage from "./pages/homepage/homepage.component";
@@ -14,6 +14,8 @@ import { setCurrentUser } from "./redux/user/user.actions";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 
 import { auth, createUserProfileDocument } from "./firebase/firebase.util";
+
+import "./App.css";
 
 class App extends React.Component {
   unsubscribeFromAuth = null;
